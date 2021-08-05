@@ -1,0 +1,7 @@
+{
+    "name": "msipenko/php-scoper-issue",
+    "type": "project",
+    "require": {
+        "composer-runtime-api": "^2.1"
+    }
+}

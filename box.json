@@ -1,0 +1,7 @@
+{
+    "main": "cli.php",
+    "output": "test.phar",
+    "compactors": [
+        "KevinGH\\Box\\Compactor\\PhpScoper"
+    ]
+}
